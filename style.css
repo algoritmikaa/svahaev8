@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: #b0ffff;
+    padding: 10px;
+}
+
+
+h1 {
+    color: rgb(255, 153, 0);
+    border: 5px solid rgb(119, 0, 255);
+    border-radius: 30px;
+    text-align: center ;
+}
+
+
+
+footer p {
+    background-color: rgb(0, 255, 55);
+    padding: 10px;
+}
+
+
+.Guest {
+    background-color: #d6fc9c;
+    padding: 10px;
+}
+
+
+.hahaha {
+    font-size: 20px;
+}
+
+
+.mn {
+    color: blue;
+}
